@@ -1,0 +1,28 @@
+{
+  "name": "cordlr-define",
+  "description": "Cordlr word definition plugin",
+  "version": "0.1.0",
+  "homepage": "https://github.com/seanc/cordlr-definition",
+  "author": "Sean Wilson (https://imsean.me)",
+  "repository": "seanc/cordlr-definition",
+  "bugs": {
+    "url": "https://github.com/seanc/cordlr-definition/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "keywords": [
+    "cordlr"
+  ],
+  "dependencies": {
+    "define-word": "^1.0.5",
+    "pixie": "^0.2.2",
+    "vocab-fetcher": "^0.1.6"
+  }
+}
