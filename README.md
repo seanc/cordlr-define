@@ -1,4 +1,4 @@
-# cordlr-definition [![NPM version](https://badge.fury.io/js/cordlr-definition.svg)](https://npmjs.org/package/cordlr-definition) [![Build Status](https://travis-ci.org/seanc/cordlr-definition.svg?branch=master)](https://travis-ci.org/seanc/cordlr-definition)
+# cordlr-define [![NPM version](https://badge.fury.io/js/cordlr-define.svg)](https://npmjs.org/package/cordlr-define) [![Build Status](https://travis-ci.org/seanc/cordlr-define.svg?branch=master)](https://travis-ci.org/seanc/cordlr-define)
 
 > Cordlr word definition plugin
 
